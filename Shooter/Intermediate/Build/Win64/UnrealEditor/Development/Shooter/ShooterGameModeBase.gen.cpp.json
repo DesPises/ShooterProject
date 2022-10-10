@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\unreal engine\\projects\\2 - shooter\\shooterproject\\shooter\\intermediate\\build\\win64\\unrealeditor\\inc\\shooter\\shootergamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal engine\\projects\\2 - shooter\\shooterproject\\shooter\\intermediate\\build\\win64\\shootereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\unreal engine\\projects\\2 - shooter\\shooterproject\\shooter\\intermediate\\build\\win64\\unrealeditor\\development\\shooter\\definitions.shooter.h",
+            "c:\\unreal engine\\projects\\2 - shooter\\shooterproject\\shooter\\source\\shooter\\shootergamemodebase.h",
+            "c:\\unreal engine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\unreal engine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\unreal engine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\unreal engine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\unreal engine\\projects\\2 - shooter\\shooterproject\\shooter\\intermediate\\build\\win64\\unrealeditor\\inc\\shooter\\shootergamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
