@@ -1531,3 +1531,380 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.24-08.18.16:456][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.11.24-08.18.16:459][260]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
 [2022.11.24-08.18.16:499][261]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.11.24-08.23.04:104][505]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/LevelSequences/LS_Platforms.LS_Platforms
+[2022.11.24-08.23.04:143][505]LogSceneOutliner: Outliner Column Spawnable does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.11.24-08.23.04:143][505]LogSceneOutliner: Outliner Column Sequence does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.11.24-08.23.04:172][505]LogViewport: Scene viewport resized to 1526x580, mode Windowed.
+[2022.11.24-08.23.28:021][843]Cmd: TRANSACTION UNDO
+[2022.11.24-08.23.28:021][843]LogEditorTransaction: Undo Select Actors/Components
+[2022.11.24-08.23.28:484][858]Cmd: TRANSACTION UNDO
+[2022.11.24-08.23.28:484][858]LogEditorTransaction: Undo Delete Node
+[2022.11.24-08.23.34:572][447]LogWindows: Warning: OpenClipboard failed with error code 5
+[2022.11.24-08.24.07:688][950]LogSavePackage: Moving output files for package: /Game/LevelSequences/LS_Platforms
+[2022.11.24-08.24.07:688][950]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Saved/LS_Platforms1E7774484C365C80F4AA07A83DBB8D55.tmp' to '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelSequences/LS_Platforms.uasset'
+[2022.11.24-08.24.07:706][950]AssetCheck: New page: Asset Save: LS_Platforms
+[2022.11.24-08.24.07:706][950]LogContentValidation: Display: Validating LevelSequence /Game/LevelSequences/LS_Platforms.LS_Platforms
+[2022.11.24-08.24.09:013][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.11.24-08.24.09:062][ 84]LogSavePackage: Moving output files for package: /Game/Levels/Arena0_2
+[2022.11.24-08.24.09:063][ 84]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Saved/Arena0_2E691A2FB48F266E5B6114284106B00F8.tmp' to '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/Arena0_2.umap'
+[2022.11.24-08.24.09:089][ 84]AssetCheck: New page: Asset Save: Arena0_2
+[2022.11.24-08.24.09:090][ 84]LogContentValidation: Display: Validating World /Game/Levels/Arena0_2.Arena0_2
+[2022.11.24-08.24.15:290][781]LogViewport: Scene viewport resized to 1526x894, mode Windowed.
+[2022.11.24-08.25.01:116][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.11.24-08.25.01:162][228]LogSavePackage: Moving output files for package: /Game/Levels/Arena0_2
+[2022.11.24-08.25.01:162][228]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Saved/Arena0_265825DEC40D73A07B3606F9871B14E75.tmp' to '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/Arena0_2.umap'
+[2022.11.24-08.25.01:191][228]AssetCheck: New page: Asset Save: Arena0_2
+[2022.11.24-08.25.01:191][228]LogContentValidation: Display: Validating World /Game/Levels/Arena0_2.Arena0_2
+[2022.11.24-08.25.07:078][727]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.25.07:933][777]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.25.19:161][717]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.25.35:276][974]Cmd: TRANSACTION UNDO
+[2022.11.24-08.25.35:276][974]LogEditorTransaction: Undo Move Elements
+[2022.11.24-08.25.38:370][180]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.11.24-08.25.38:412][180]LogSavePackage: Moving output files for package: /Game/Levels/Arena0_2
+[2022.11.24-08.25.38:412][180]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Saved/Arena0_2A238C1894F2BF5646EA75896E418B6C3.tmp' to '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/Arena0_2.umap'
+[2022.11.24-08.25.38:435][180]AssetCheck: New page: Asset Save: Arena0_2
+[2022.11.24-08.25.38:435][180]LogContentValidation: Display: Validating World /Game/Levels/Arena0_2.Arena0_2
+[2022.11.24-08.25.49:589][ 73]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.25.50:510][145]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.26.06:325][405]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.26.06:846][438]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.26.31:315][410]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.26.32:382][496]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.26.40:692][187]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.26.58:605][691]Cmd: DELETE
+[2022.11.24-08.26.58:605][691]Cmd: ACTOR DELETE
+[2022.11.24-08.26.58:611][691]LogEditorActor: Deleted Actor: BP_EnemyChar_C
+[2022.11.24-08.26.58:612][691]LogEditorActor: Deleted Actor: BP_EnemyChar_C
+[2022.11.24-08.26.58:671][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.11.24-08.26.58:680][691]LogEditorActor: Deleted 2 Actors (0.074 secs)
+[2022.11.24-08.26.59:669][792]Cmd: TRANSACTION UNDO
+[2022.11.24-08.26.59:669][792]LogEditorTransaction: Undo Delete Elements
+[2022.11.24-08.26.59:822][792]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.27.02:014][947]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.27.05:058][175]Cmd: TRANSACTION UNDO
+[2022.11.24-08.27.05:058][175]LogEditorTransaction: Undo Snap Elements To Floor
+[2022.11.24-08.27.06:648][266]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.27.19:073][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.11.24-08.27.19:109][261]LogSavePackage: Moving output files for package: /Game/Levels/Arena0_2
+[2022.11.24-08.27.19:109][261]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Saved/Arena0_25EA6B2484AD40935D34D709C76AD5A73.tmp' to '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/Arena0_2.umap'
+[2022.11.24-08.27.19:132][261]AssetCheck: New page: Asset Save: Arena0_2
+[2022.11.24-08.27.19:132][261]LogContentValidation: Display: Validating World /Game/Levels/Arena0_2.Arena0_2
+[2022.11.24-08.27.22:776][566]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.27.25:203][763]Cmd: TRANSACTION UNDO
+[2022.11.24-08.27.25:203][763]LogEditorTransaction: Undo Snap Elements To Floor
+[2022.11.24-08.27.26:480][826]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.27.33:858][397]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.27.35:111][507]Cmd: TRANSACTION UNDO
+[2022.11.24-08.27.35:112][507]LogEditorTransaction: Undo Snap Elements To Floor
+[2022.11.24-08.27.35:560][519]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.27.36:423][570]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.11.24-08.27.36:460][570]LogSavePackage: Moving output files for package: /Game/Levels/Arena0_2
+[2022.11.24-08.27.36:460][570]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Saved/Arena0_27EEDF44F43083DC38CA94C9EF72CC2A3.tmp' to '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/Arena0_2.umap'
+[2022.11.24-08.27.36:489][570]AssetCheck: New page: Asset Save: Arena0_2
+[2022.11.24-08.27.36:489][570]LogContentValidation: Display: Validating World /Game/Levels/Arena0_2.Arena0_2
+[2022.11.24-08.27.43:372][118]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.27.43:694][140]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.27.44:283][186]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.27.44:745][222]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.27.49:913][692]Cmd: TRANSACTION UNDO
+[2022.11.24-08.27.49:913][692]LogEditorTransaction: Undo Clicking on Actors
+[2022.11.24-08.27.50:017][692]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.27.57:067][297]Cmd: TRANSACTION UNDO
+[2022.11.24-08.27.57:067][297]LogEditorTransaction: Undo Clicking on Actors
+[2022.11.24-08.27.57:177][297]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.28.06:136][935]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.28.08:302][115]Cmd: TRANSACTION UNDO
+[2022.11.24-08.28.08:302][115]LogEditorTransaction: Undo Snap Elements To Floor
+[2022.11.24-08.28.08:978][142]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.28.13:694][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.11.24-08.28.13:736][515]LogSavePackage: Moving output files for package: /Game/Levels/Arena0_2
+[2022.11.24-08.28.13:736][515]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Saved/Arena0_2B9EAAA9D4F3A65F2334CE697D0393B4E.tmp' to '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/Arena0_2.umap'
+[2022.11.24-08.28.13:763][515]AssetCheck: New page: Asset Save: Arena0_2
+[2022.11.24-08.28.13:763][515]LogContentValidation: Display: Validating World /Game/Levels/Arena0_2.Arena0_2
+[2022.11.24-08.28.17:044][793]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.28.20:007][ 34]Cmd: TRANSACTION UNDO
+[2022.11.24-08.28.20:007][ 34]LogEditorTransaction: Undo Snap Elements To Floor
+[2022.11.24-08.28.21:078][ 93]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.28.24:365][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.11.24-08.28.24:402][354]LogSavePackage: Moving output files for package: /Game/Levels/Arena0_2
+[2022.11.24-08.28.24:402][354]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Saved/Arena0_2B9548AE64494C30FE417F9886B7D4FCD.tmp' to '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/Arena0_2.umap'
+[2022.11.24-08.28.24:429][354]AssetCheck: New page: Asset Save: Arena0_2
+[2022.11.24-08.28.24:429][354]LogContentValidation: Display: Validating World /Game/Levels/Arena0_2.Arena0_2
+[2022.11.24-08.28.25:802][461]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.28.26:216][492]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.28.30:282][805]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.28.38:307][512]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.28.39:004][556]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.28.47:047][245]Cmd: TRANSACTION UNDO
+[2022.11.24-08.28.47:047][245]LogEditorTransaction: Undo Snap Elements To Floor
+[2022.11.24-08.28.47:799][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.11.24-08.28.47:840][271]LogSavePackage: Moving output files for package: /Game/Levels/Arena0_2
+[2022.11.24-08.28.47:841][271]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Saved/Arena0_2FB511EF446B8D99FF6BD97AA0357D6CA.tmp' to '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/Arena0_2.umap'
+[2022.11.24-08.28.47:867][271]AssetCheck: New page: Asset Save: Arena0_2
+[2022.11.24-08.28.47:867][271]LogContentValidation: Display: Validating World /Game/Levels/Arena0_2.Arena0_2
+[2022.11.24-08.28.54:411][788]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.28.56:978][  1]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.29.06:781][774]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.29.10:993][ 80]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.29.17:879][647]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.29.21:178][915]Cmd: TRANSACTION UNDO
+[2022.11.24-08.29.21:178][915]LogEditorTransaction: Undo Snap Elements To Floor
+[2022.11.24-08.29.21:596][924]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.29.24:813][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.11.24-08.29.24:857][159]LogSavePackage: Moving output files for package: /Game/Levels/Arena0_2
+[2022.11.24-08.29.24:857][159]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Saved/Arena0_2D96AB203428B252B9F81C38136911D26.tmp' to '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/Arena0_2.umap'
+[2022.11.24-08.29.24:883][159]AssetCheck: New page: Asset Save: Arena0_2
+[2022.11.24-08.29.24:883][159]LogContentValidation: Display: Validating World /Game/Levels/Arena0_2.Arena0_2
+[2022.11.24-08.29.28:985][459]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.29.40:460][346]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.29.43:701][594]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.29.47:966][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.11.24-08.29.48:006][928]LogSavePackage: Moving output files for package: /Game/Levels/Arena0_2
+[2022.11.24-08.29.48:006][928]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Saved/Arena0_2A566EA4A4A7649DEFBE345A0D220C0B4.tmp' to '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/Arena0_2.umap'
+[2022.11.24-08.29.48:037][928]AssetCheck: New page: Asset Save: Arena0_2
+[2022.11.24-08.29.48:037][928]LogContentValidation: Display: Validating World /Game/Levels/Arena0_2.Arena0_2
+[2022.11.24-08.29.50:568][100]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.29.51:624][165]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.29.55:248][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.11.24-08.29.55:287][452]LogSavePackage: Moving output files for package: /Game/Levels/Arena0_2
+[2022.11.24-08.29.55:287][452]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Saved/Arena0_24F5B189B412710DB3E0F71AA8A4DBD1E.tmp' to '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/Arena0_2.umap'
+[2022.11.24-08.29.55:313][452]AssetCheck: New page: Asset Save: Arena0_2
+[2022.11.24-08.29.55:313][452]LogContentValidation: Display: Validating World /Game/Levels/Arena0_2.Arena0_2
+[2022.11.24-08.29.59:337][780]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.30.02:295][990]Cmd: TRANSACTION UNDO
+[2022.11.24-08.30.02:295][990]LogEditorTransaction: Undo Snap Elements To Floor
+[2022.11.24-08.30.03:142][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.11.24-08.30.03:182][ 10]LogSavePackage: Moving output files for package: /Game/Levels/Arena0_2
+[2022.11.24-08.30.03:182][ 10]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Saved/Arena0_25FF4362A4FB4C4E9C0CA938D33172CCF.tmp' to '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/Arena0_2.umap'
+[2022.11.24-08.30.03:213][ 10]AssetCheck: New page: Asset Save: Arena0_2
+[2022.11.24-08.30.03:213][ 10]LogContentValidation: Display: Validating World /Game/Levels/Arena0_2.Arena0_2
+[2022.11.24-08.30.12:623][706]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.30.12:860][726]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.30.18:779][219]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.30.20:779][391]Cmd: TRANSACTION UNDO
+[2022.11.24-08.30.20:779][391]LogEditorTransaction: Undo Snap Elements To Floor
+[2022.11.24-08.30.21:688][438]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.30.23:740][593]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.30.30:294][107]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.30.32:579][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.11.24-08.30.32:616][291]LogSavePackage: Moving output files for package: /Game/Levels/Arena0_2
+[2022.11.24-08.30.32:616][291]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Saved/Arena0_2FF4C2CBA43AD630A334E778FC029386F.tmp' to '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/Arena0_2.umap'
+[2022.11.24-08.30.32:640][291]AssetCheck: New page: Asset Save: Arena0_2
+[2022.11.24-08.30.32:640][291]LogContentValidation: Display: Validating World /Game/Levels/Arena0_2.Arena0_2
+[2022.11.24-08.30.35:900][561]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.30.39:155][840]Cmd: TRANSACTION UNDO
+[2022.11.24-08.30.39:155][840]LogEditorTransaction: Undo Snap Elements To Floor
+[2022.11.24-08.30.39:733][859]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.30.44:855][238]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.11.24-08.30.44:887][238]LogSavePackage: Moving output files for package: /Game/Levels/Arena0_2
+[2022.11.24-08.30.44:887][238]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Saved/Arena0_2D45F938241C7DFCDF5407DBA25EE93CA.tmp' to '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/Arena0_2.umap'
+[2022.11.24-08.30.44:910][238]AssetCheck: New page: Asset Save: Arena0_2
+[2022.11.24-08.30.44:910][238]LogContentValidation: Display: Validating World /Game/Levels/Arena0_2.Arena0_2
+[2022.11.24-08.30.46:887][399]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.30.50:252][683]Cmd: TRANSACTION UNDO
+[2022.11.24-08.30.50:252][683]LogEditorTransaction: Undo Snap Elements To Floor
+[2022.11.24-08.30.51:184][732]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.30.54:458][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.11.24-08.30.54:491][979]LogSavePackage: Moving output files for package: /Game/Levels/Arena0_2
+[2022.11.24-08.30.54:492][979]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Saved/Arena0_21F97B386430CE0FB51E8F3AEFA48B1A8.tmp' to '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/Arena0_2.umap'
+[2022.11.24-08.30.54:514][979]AssetCheck: New page: Asset Save: Arena0_2
+[2022.11.24-08.30.54:514][979]LogContentValidation: Display: Validating World /Game/Levels/Arena0_2.Arena0_2
+[2022.11.24-08.30.56:366][121]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.31.01:666][523]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.31.02:680][583]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.31.07:161][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.11.24-08.31.07:201][933]LogSavePackage: Moving output files for package: /Game/Levels/Arena0_2
+[2022.11.24-08.31.07:201][933]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Saved/Arena0_2E12417B2499530D5E56110AD5D4BDC3E.tmp' to '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/Arena0_2.umap'
+[2022.11.24-08.31.07:229][933]AssetCheck: New page: Asset Save: Arena0_2
+[2022.11.24-08.31.07:229][933]LogContentValidation: Display: Validating World /Game/Levels/Arena0_2.Arena0_2
+[2022.11.24-08.31.09:051][ 84]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.31.12:542][372]Cmd: TRANSACTION UNDO
+[2022.11.24-08.31.12:542][372]LogEditorTransaction: Undo Snap Elements To Floor
+[2022.11.24-08.31.13:447][419]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.31.16:783][677]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.31.19:509][893]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.31.25:367][368]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.31.31:782][892]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.31.41:432][687]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.31.42:630][789]Cmd: TRANSACTION UNDO
+[2022.11.24-08.31.42:630][789]LogEditorTransaction: Undo Snap Elements To Floor
+[2022.11.24-08.31.43:465][830]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.31.46:098][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.11.24-08.31.46:137][ 26]LogSavePackage: Moving output files for package: /Game/Levels/Arena0_2
+[2022.11.24-08.31.46:138][ 26]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Saved/Arena0_2B4159BC943E287E1A12CF484F7C205E6.tmp' to '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/Arena0_2.umap'
+[2022.11.24-08.31.46:164][ 26]AssetCheck: New page: Asset Save: Arena0_2
+[2022.11.24-08.31.46:164][ 26]LogContentValidation: Display: Validating World /Game/Levels/Arena0_2.Arena0_2
+[2022.11.24-08.31.56:810][874]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.31.58:570][  4]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.32.08:621][703]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.32.14:287][161]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.32.20:035][677]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.32.24:988][ 51]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.32.27:031][179]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.32.28:448][281]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.32.34:776][792]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-08.32.36:539][928]Cmd: TRANSACTION UNDO
+[2022.11.24-08.32.36:539][928]LogEditorTransaction: Undo Snap Elements To Floor
+[2022.11.24-08.32.44:421][519]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.32.45:740][598]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.32.49:452][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.11.24-08.32.49:494][896]LogSavePackage: Moving output files for package: /Game/Levels/Arena0_2
+[2022.11.24-08.32.49:494][896]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Saved/Arena0_2630E09134A4A0970F3DA699ABCBDA832.tmp' to '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/Arena0_2.umap'
+[2022.11.24-08.32.49:519][896]AssetCheck: New page: Asset Save: Arena0_2
+[2022.11.24-08.32.49:519][896]LogContentValidation: Display: Validating World /Game/Levels/Arena0_2.Arena0_2
+[2022.11.24-08.32.51:546][ 54]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.24-08.32.51:555][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-08.32.51:555][ 54]PIE: New page: PIE session: Arena0_2 (24 нояб. 2022 г., 14:32:51)
+[2022.11.24-08.32.51:555][ 54]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena0_2
+[2022.11.24-08.32.51:573][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017745s)
+[2022.11.24-08.32.51:573][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena0_2.Arena0_2 to /Game/Levels/UEDPIE_0_Arena0_2.Arena0_2 (0.017824s)
+[2022.11.24-08.32.51:573][ 54]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-08.32.51:573][ 54]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-08.32.51:574][ 54]LogAIModule: Creating AISystem for world Arena0_2
+[2022.11.24-08.32.51:574][ 54]LogPlayLevel: PIE: World Init took: (0.000817s)
+[2022.11.24-08.32.51:628][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.11.24-08.32.51:630][ 54]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.11.24-08.32.51:631][ 54]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-08.32.51:631][ 54]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-08.32.51:631][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-08.32.51:631][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-08.32.51:631][ 54]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-08.32.51:631][ 54]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-08.32.51:631][ 54]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-08.32.51:631][ 54]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-08.32.51:631][ 54]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-08.32.51:631][ 54]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-08.32.51:631][ 54]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-08.32.51:633][ 54]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-08.32.51:649][ 54]LogAudioMixer: Display: Using Audio Hardware Device Динамики (G432 Gaming Headset)
+[2022.11.24-08.32.51:650][ 54]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-08.32.51:650][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-08.32.51:650][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-08.32.51:651][ 54]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.11.24-08.32.51:651][ 54]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2022.11.24-08.32.51:652][ 54]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.11.24-08.32.51:652][ 54]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.11.24-08.32.51:652][ 54]LogInit: FAudioDevice initialized.
+[2022.11.24-08.32.51:652][ 54]LogAudio: Display: Audio Device (ID: 8) registered with world 'Arena0_2'.
+[2022.11.24-08.32.51:665][ 54]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.24-08.32.51:685][ 54]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena0_2.Arena0_2 up for play (max tick rate 0) at 2022.11.24-11.32.51
+[2022.11.24-08.32.51:688][ 54]LogWorld: Bringing up level for play took: 0.022593
+[2022.11.24-08.32.51:691][ 54]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2022.11.24-08.32.51:695][ 54]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.11.24-08.32.51:696][ 54]PIE: Server logged in
+[2022.11.24-08.32.51:697][ 54]PIE: Play in editor total start time 0,142 seconds.
+[2022.11.24-08.32.51:756][ 54]LogAudio: Warning: Detected orphaned looping sound 'OST'.
+[2022.11.24-08.33.02:380][718]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.24-08.33.02:380][718]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.11.24-08.33.03:259][803]LogNet: Browse: /Game/Levels/Arena0_2
+[2022.11.24-08.33.03:259][803]LogLoad: LoadMap: /Game/Levels/Arena0_2
+[2022.11.24-08.33.03:259][803]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Arena0_2
+[2022.11.24-08.33.03:262][803]LogWorld: UWorld::CleanupWorld for Arena0_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-08.33.03:266][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-08.33.03:355][803]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-08.33.03:366][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.11.24-08.33.03:374][803]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena0_2
+[2022.11.24-08.33.03:392][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018205s)
+[2022.11.24-08.33.03:392][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena0_2.Arena0_2 to /Game/Levels/UEDPIE_0_Arena0_2.Arena0_2 (0.018326s)
+[2022.11.24-08.33.03:392][803]LogAudio: Display: Audio Device (ID: 8) registered with world 'Arena0_2'.
+[2022.11.24-08.33.03:392][803]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-08.33.03:392][803]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-08.33.03:393][803]LogAIModule: Creating AISystem for world Arena0_2
+[2022.11.24-08.33.03:393][803]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2022.11.24-08.33.03:393][803]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.24-08.33.03:414][803]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena0_2.Arena0_2 up for play (max tick rate 0) at 2022.11.24-11.33.03
+[2022.11.24-08.33.03:417][803]LogWorld: Bringing up level for play took: 0.024362
+[2022.11.24-08.33.03:422][803]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.24-08.33.03:422][803]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.11.24-08.33.03:423][803]LogLoad: Took 0.164420 seconds to LoadMap(/Game/Levels/UEDPIE_0_Arena0_2)
+[2022.11.24-08.33.03:439][803]LogAudio: Warning: Detected orphaned looping sound 'OST'.
+[2022.11.24-08.33.09:240][169]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.24-08.33.09:241][169]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.11.24-08.33.09:980][238]LogNet: Browse: /Game/Levels/Arena0_2
+[2022.11.24-08.33.09:981][238]LogLoad: LoadMap: /Game/Levels/Arena0_2
+[2022.11.24-08.33.09:981][238]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Arena0_2
+[2022.11.24-08.33.09:983][238]LogWorld: UWorld::CleanupWorld for Arena0_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-08.33.09:985][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-08.33.10:070][238]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-08.33.10:083][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.11.24-08.33.10:088][238]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena0_2
+[2022.11.24-08.33.10:104][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016300s)
+[2022.11.24-08.33.10:104][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena0_2.Arena0_2 to /Game/Levels/UEDPIE_0_Arena0_2.Arena0_2 (0.016435s)
+[2022.11.24-08.33.10:104][238]LogAudio: Display: Audio Device (ID: 8) registered with world 'Arena0_2'.
+[2022.11.24-08.33.10:104][238]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-08.33.10:105][238]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-08.33.10:105][238]LogAIModule: Creating AISystem for world Arena0_2
+[2022.11.24-08.33.10:105][238]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2022.11.24-08.33.10:105][238]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.24-08.33.10:125][238]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena0_2.Arena0_2 up for play (max tick rate 0) at 2022.11.24-11.33.10
+[2022.11.24-08.33.10:128][238]LogWorld: Bringing up level for play took: 0.022811
+[2022.11.24-08.33.10:133][238]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.24-08.33.10:133][238]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.11.24-08.33.10:134][238]LogLoad: Took 0.153683 seconds to LoadMap(/Game/Levels/UEDPIE_0_Arena0_2)
+[2022.11.24-08.33.10:150][238]LogAudio: Warning: Detected orphaned looping sound 'OST'.
+[2022.11.24-08.33.33:236][765]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.24-08.33.33:236][765]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.11.24-08.33.33:978][839]LogNet: Browse: /Game/Levels/Arena0_2
+[2022.11.24-08.33.33:978][839]LogLoad: LoadMap: /Game/Levels/Arena0_2
+[2022.11.24-08.33.33:978][839]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Arena0_2
+[2022.11.24-08.33.33:980][839]LogWorld: UWorld::CleanupWorld for Arena0_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-08.33.33:983][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-08.33.34:073][839]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-08.33.34:083][839]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.11.24-08.33.34:091][839]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena0_2
+[2022.11.24-08.33.34:111][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019881s)
+[2022.11.24-08.33.34:111][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena0_2.Arena0_2 to /Game/Levels/UEDPIE_0_Arena0_2.Arena0_2 (0.019999s)
+[2022.11.24-08.33.34:111][839]LogAudio: Display: Audio Device (ID: 8) registered with world 'Arena0_2'.
+[2022.11.24-08.33.34:111][839]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-08.33.34:111][839]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-08.33.34:112][839]LogAIModule: Creating AISystem for world Arena0_2
+[2022.11.24-08.33.34:112][839]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2022.11.24-08.33.34:112][839]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.24-08.33.34:133][839]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena0_2.Arena0_2 up for play (max tick rate 0) at 2022.11.24-11.33.34
+[2022.11.24-08.33.34:136][839]LogWorld: Bringing up level for play took: 0.023603
+[2022.11.24-08.33.34:140][839]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.24-08.33.34:140][839]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.11.24-08.33.34:141][839]LogLoad: Took 0.163056 seconds to LoadMap(/Game/Levels/UEDPIE_0_Arena0_2)
+[2022.11.24-08.33.34:155][839]LogAudio: Warning: Detected orphaned looping sound 'OST'.
+[2022.11.24-08.34.03:104][932]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.24-08.34.03:104][932]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.11.24-08.34.04:218][ 42]LogNet: Browse: /Game/Levels/Arena0_2
+[2022.11.24-08.34.04:219][ 42]LogLoad: LoadMap: /Game/Levels/Arena0_2
+[2022.11.24-08.34.04:219][ 42]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Arena0_2
+[2022.11.24-08.34.04:221][ 42]LogWorld: UWorld::CleanupWorld for Arena0_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-08.34.04:224][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-08.34.04:305][ 42]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-08.34.04:316][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.11.24-08.34.04:324][ 42]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena0_2
+[2022.11.24-08.34.04:345][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020778s)
+[2022.11.24-08.34.04:345][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena0_2.Arena0_2 to /Game/Levels/UEDPIE_0_Arena0_2.Arena0_2 (0.020914s)
+[2022.11.24-08.34.04:345][ 42]LogAudio: Display: Audio Device (ID: 8) registered with world 'Arena0_2'.
+[2022.11.24-08.34.04:345][ 42]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-08.34.04:345][ 42]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-08.34.04:346][ 42]LogAIModule: Creating AISystem for world Arena0_2
+[2022.11.24-08.34.04:346][ 42]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2022.11.24-08.34.04:346][ 42]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.24-08.34.04:366][ 42]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena0_2.Arena0_2 up for play (max tick rate 0) at 2022.11.24-11.34.04
+[2022.11.24-08.34.04:369][ 42]LogWorld: Bringing up level for play took: 0.022669
+[2022.11.24-08.34.04:373][ 42]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.24-08.34.04:373][ 42]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.11.24-08.34.04:374][ 42]LogLoad: Took 0.155454 seconds to LoadMap(/Game/Levels/UEDPIE_0_Arena0_2)
+[2022.11.24-08.34.04:390][ 42]LogAudio: Warning: Detected orphaned looping sound 'OST'.
+[2022.11.24-08.34.09:948][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-08.34.09:948][392]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Arena0_2
+[2022.11.24-08.34.09:949][392]LogWorld: UWorld::CleanupWorld for Arena0_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-08.34.09:952][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-08.34.09:964][392]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-08.34.09:973][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-08.34.10:025][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-08.34.10:025][392]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.11.24-08.34.10:027][392]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.11.24-08.34.10:041][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.11.24-08.34.10:128][393]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.11.24-08.34.10:154][393]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-08.34.11:979][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.11.24-08.34.12:014][530]LogSavePackage: Moving output files for package: /Game/Levels/Arena0_2
+[2022.11.24-08.34.12:014][530]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Saved/Arena0_2CB6D4B384F618276ECD59ABBCB9E599A.tmp' to '../../../../../../Users/User/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/Arena0_2.umap'
+[2022.11.24-08.34.12:041][530]AssetCheck: New page: Asset Save: Arena0_2
+[2022.11.24-08.34.12:041][530]LogContentValidation: Display: Validating World /Game/Levels/Arena0_2.Arena0_2
