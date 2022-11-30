@@ -87,15 +87,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5F383E29C266515C3C2128785BF84B08B8392A48",
-			"Assets": [
-				"/Niagara/DefaultAssets/DefaultRIbbonMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "11AB4D18B6E4F96C0476760488FEDC57F8D9E3F7",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Basic_Wall"
+			]
+		},
+		{
+			"ShaderMapHash": "5F383E29C266515C3C2128785BF84B08B8392A48",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultRIbbonMaterial"
 			]
 		},
 		{

@@ -559,573 +559,573 @@
 "../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.ubulk" 558
 "../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 559
 "../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 560
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/HUD/Himalaya_Regular.uexp" 561
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/HUD/Himalaya_Regular.uasset" 562
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/HUD/Himalaya_Regular.ufont" 563
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/HUD/Himalaya_Regular_Font.uasset" 564
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/HUD/Himalaya_Regular_Font.uexp" 565
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/HUD/MainMenu.uasset" 566
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/HUD/MainMenu.uexp" 567
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/BP_MainMenuGameMode.uasset" 568
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/BP_MainMenuGameMode.uexp" 569
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/MainMenu.uexp" 570
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/MainMenu.umap" 571
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 572
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 573
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 574
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 575
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 576
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uexp" 577
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPerson_Fire.uasset" 578
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPerson_Fire.uexp" 579
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPersonFire_Montage.uasset" 580
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPersonFire_Montage.uexp" 581
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uasset" 582
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uexp" 583
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uasset" 584
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uexp" 585
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_LocationShapes.uasset" 586
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_LocationShapes.uexp" 587
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 588
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uexp" 589
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_CylinderMode.uasset" 590
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_CylinderMode.uexp" 591
-"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 592
-"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uexp" 593
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 594
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uexp" 595
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 596
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uexp" 597
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 598
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uexp" 599
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 600
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uexp" 601
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 602
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uexp" 603
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 604
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uexp" 605
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 606
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uexp" 607
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 608
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uexp" 609
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 610
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uexp" 611
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 612
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uexp" 613
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uasset" 614
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uexp" 615
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 616
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uexp" 617
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 618
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uexp" 619
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 620
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uexp" 621
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uasset" 622
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uexp" 623
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 624
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uexp" 625
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 626
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uexp" 627
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 628
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uexp" 629
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 630
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uexp" 631
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 632
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uexp" 633
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_ScaleMode.uasset" 634
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_ScaleMode.uexp" 635
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 636
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uexp" 637
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 638
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uexp" 639
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 640
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uexp" 641
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 642
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uexp" 643
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 644
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uexp" 645
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 646
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uexp" 647
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 648
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uexp" 649
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 650
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uexp" 651
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 652
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uexp" 653
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_ConeMode.uasset" 654
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_ConeMode.uexp" 655
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Angles/ENiagara_AngleInput.uasset" 656
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Angles/ENiagara_AngleInput.uexp" 657
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 658
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uexp" 659
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_AttributeSamplingApplyOutput.uasset" 660
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_AttributeSamplingApplyOutput.uexp" 661
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/Vector2DFromFloat.uasset" 662
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/Vector2DFromFloat.uexp" 663
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_OffsetMode.uasset" 664
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_OffsetMode.uexp" 665
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 666
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uexp" 667
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 668
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uexp" 669
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_BoxPlaneMode.uasset" 670
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_BoxPlaneMode.uexp" 671
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_TransformOrder.uasset" 672
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_TransformOrder.uexp" 673
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagaraRingDiscMode.uasset" 674
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagaraRingDiscMode.uexp" 675
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_RotationMode.uasset" 676
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_RotationMode.uexp" 677
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 678
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uexp" 679
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraShapeTorusMode.uasset" 680
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraShapeTorusMode.uexp" 681
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 682
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uexp" 683
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/SaturateFloat.uasset" 684
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/SaturateFloat.uexp" 685
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 686
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uexp" 687
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/RotateVector2D.uasset" 688
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/RotateVector2D.uexp" 689
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/RemapRange.uasset" 690
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/RemapRange.uexp" 691
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 692
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uexp" 693
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 694
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uexp" 695
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/IsolateLongestVectorComponent.uasset" 696
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/IsolateLongestVectorComponent.uexp" 697
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomPointInBox.uasset" 698
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomPointInBox.uexp" 699
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AngleUnitConverter.uasset" 700
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AngleUnitConverter.uexp" 701
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorusKnot.uasset" 702
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorusKnot.uexp" 703
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 704
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uexp" 705
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorus.uasset" 706
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorus.uexp" 707
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uasset" 708
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uexp" 709
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uasset" 710
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uexp" 711
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/SphericalToCartesianCoordinates.uasset" 712
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/SphericalToCartesianCoordinates.uexp" 713
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/XYZRotationToQuaternion.uasset" 714
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/XYZRotationToQuaternion.uexp" 715
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 716
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uexp" 717
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uasset" 718
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uexp" 719
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 720
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uexp" 721
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/InvertQuaternion.uasset" 722
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/InvertQuaternion.uexp" 723
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MatrixToQuaternion.uasset" 724
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MatrixToQuaternion.uexp" 725
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MakeQuaternionFrom3BasisVectors.uasset" 726
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MakeQuaternionFrom3BasisVectors.uexp" 727
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uasset" 728
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uexp" 729
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/TransformStack/TransformStack_Rotation.uasset" 730
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/TransformStack/TransformStack_Rotation.uexp" 731
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_TransformType.uasset" 732
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_TransformType.uexp" 733
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/CalculateRandomPointInConeSphereIntersection.uasset" 734
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/CalculateRandomPointInConeSphereIntersection.uexp" 735
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/V2/ShapeLocation.uasset" 736
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/V2/ShapeLocation.uexp" 737
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Particle_InfiniteLife.uasset" 738
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Particle_InfiniteLife.uexp" 739
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 740
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uexp" 741
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.uasset" 742
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.uexp" 743
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uasset" 744
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uexp" 745
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uasset" 746
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uexp" 747
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/Laser/NS_LaserImpact.uasset" 748
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/Laser/NS_LaserImpact.uexp" 749
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/Player/BP_LaserImpact.uasset" 750
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/Player/BP_LaserImpact.uexp" 751
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 752
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 753
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 754
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 755
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 756
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 757
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 758
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 759
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 760
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 761
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 762
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 763
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Textures/UE4_Mannequin_MAT_MASKA.ubulk" 764
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 765
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Textures/UE4_Mannequin_MAT_MASKA.uexp" 766
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Textures/UE4_LOGO_CARD.ubulk" 767
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Textures/UE4_LOGO_CARD.uasset" 768
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Textures/UE4_LOGO_CARD.uexp" 769
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 770
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 771
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 772
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 773
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 774
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 775
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 776
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 777
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 778
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 779
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 780
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 781
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 782
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 783
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Textures/UE4_Mannequin__normals.ubulk" 784
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Textures/UE4_Mannequin__normals.uasset" 785
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Textures/UE4_Mannequin__normals.uexp" 786
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/M_UE4Man_Body.uasset" 787
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/M_UE4Man_Body.uexp" 788
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 789
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uexp" 790
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms.uasset" 791
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms.uexp" 792
-"../../../Engine/Content/BasicShapes/Sphere.ubulk" 793
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 794
-"../../../Engine/Content/BasicShapes/Sphere.uexp" 795
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 796
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 797
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uasset" 798
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uexp" 799
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uasset" 800
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uexp" 801
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamEmitterSetup.uasset" 802
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamEmitterSetup.uexp" 803
-"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultRIbbonMaterial.uasset" 804
-"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultRIbbonMaterial.uexp" 805
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Spline/FindPositionOnBezierSpline.uasset" 806
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Spline/FindPositionOnBezierSpline.uexp" 807
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/SpawnBeam.uasset" 808
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/SpawnBeam.uexp" 809
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamWidth.uasset" 810
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamWidth.uexp" 811
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/UpdateBeam.uasset" 812
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/UpdateBeam.uexp" 813
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/Laser/NS_Laser.uasset" 814
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/Laser/NS_Laser.uexp" 815
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPerson_JumpLoop.uasset" 816
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPerson_JumpLoop.uexp" 817
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPerson_Run.uasset" 818
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPerson_Run.uexp" 819
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPerson_JumpEnd.uasset" 820
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPerson_JumpEnd.uexp" 821
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPerson_Idle.uasset" 822
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPerson_Idle.uexp" 823
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPerson_JumpStart.uasset" 824
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPerson_JumpStart.uexp" 825
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 826
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 827
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset" 828
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uexp" 829
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/ShooterOST.ubulk" 830
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/ShooterOST.uasset" 831
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/ShooterOST.uexp" 832
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/OST.uasset" 833
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/OST.uexp" 834
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/BP_FirstPersonGameMode.uasset" 835
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/BP_FirstPersonGameMode.uexp" 836
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/HUD/Crosshair.uasset" 837
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/HUD/Crosshair.uexp" 838
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.ubulk" 839
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset" 840
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uexp" 841
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.ubulk" 842
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset" 843
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uexp" 844
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 845
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 846
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 847
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 848
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 849
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 850
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 851
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 852
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 853
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 854
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.ubulk" 855
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset" 856
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uexp" 857
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.ubulk" 858
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset" 859
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uexp" 860
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 861
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 862
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 863
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 864
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 865
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 866
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 867
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 868
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 869
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 870
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 871
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uexp" 872
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uasset" 873
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uexp" 874
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.ubulk" 875
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset" 876
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.uexp" 877
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset" 878
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uexp" 879
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset" 880
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uexp" 881
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset" 882
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uexp" 883
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset" 884
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uexp" 885
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Textures/T_FPGun_N.ubulk" 886
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Textures/T_FPGun_N.uasset" 887
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Textures/T_FPGun_N.uexp" 888
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 889
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uexp" 890
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 891
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 892
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 893
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 894
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 895
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 896
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 897
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 898
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Textures/T_FPGun_M.ubulk" 899
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Textures/T_FPGun_M.uasset" 900
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Textures/T_FPGun_M.uexp" 901
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 902
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 903
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 904
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 905
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 906
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 907
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 908
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 909
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 910
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 911
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/M_EnemyGun.uasset" 912
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/M_EnemyGun.uexp" 913
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 914
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uexp" 915
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Mesh/SK_FPGun_Physics.uasset" 916
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Mesh/SK_FPGun_Physics.uexp" 917
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Mesh/SK_EnemyGun.uasset" 918
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Mesh/SK_EnemyGun.uexp" 919
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Tile/T_Black_32.uasset" 920
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Tile/T_Black_32.uexp" 921
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master.uasset" 922
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master.uexp" 923
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Animal/T_Feathers_01.ubulk" 924
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Animal/T_Feathers_01.uasset" 925
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Animal/T_Feathers_01.uexp" 926
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Materials/Misc/M_Feathers_Trans_3X1_INST.uasset" 927
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Materials/Misc/M_Feathers_Trans_3X1_INST.uexp" 928
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_FireBlastTile.ubulk" 929
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_FireBlastTile.uasset" 930
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_FireBlastTile.uexp" 931
-"../../../Engine/Content/EngineResources/Black.uasset" 932
-"../../../Engine/Content/EngineResources/Black.uexp" 933
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/Masters/M_Add_Trail_2Sided_Pan_Master.uasset" 934
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/Masters/M_Add_Trail_2Sided_Pan_Master.uexp" 935
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_Sheet_01_INST.uasset" 936
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_Sheet_01_INST.uexp" 937
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_SubUV_Master.uasset" 938
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_SubUV_Master.uexp" 939
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_Fire_subUV_6X6.ubulk" 940
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_Fire_subUV_6X6.uasset" 941
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_Fire_subUV_6X6.uexp" 942
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_01_Add_6X6_INST.uasset" 943
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_01_Add_6X6_INST.uexp" 944
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_FireBlastMesh.ubulk" 945
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_FireBlastMesh.uasset" 946
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_FireBlastMesh.uexp" 947
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master.uasset" 948
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master.uexp" 949
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_03.ubulk" 950
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_03.uasset" 951
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_03.uexp" 952
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_04_INST.uasset" 953
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_04_INST.uexp" 954
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Spark/T_Sparks_03_SubUV_1_4.ubulk" 955
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Spark/T_Sparks_03_SubUV_1_4.uasset" 956
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Spark/T_Sparks_03_SubUV_1_4.uexp" 957
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Materials/Spark/M_Spark_03_1_4_INST.uasset" 958
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Materials/Spark/M_Spark_03_1_4_INST.uexp" 959
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Smoke/T_SmokeBall_01_8_8.ubulk" 960
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Smoke/T_SmokeBall_01_8_8.uasset" 961
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Smoke/T_SmokeBall_01_8_8.uexp" 962
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_Smoke_01_8X8_INST.uasset" 963
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_Smoke_01_8X8_INST.uexp" 964
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Chicken/P_ChickenMaster_MuzzleFlash_01.uasset" 965
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Chicken/P_ChickenMaster_MuzzleFlash_01.uexp" 966
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset" 967
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uexp" 968
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Jump_From_Jog.uasset" 969
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Jump_From_Jog.uexp" 970
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Hit_React_4.uasset" 971
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Hit_React_4.uexp" 972
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Jog_Bwd_Rifle.uasset" 973
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Jog_Bwd_Rifle.uexp" 974
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Jog_Lt_Rifle.uasset" 975
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Jog_Lt_Rifle.uexp" 976
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Jog_Rt_Rifle.uasset" 977
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Jog_Rt_Rifle.uexp" 978
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Jog_Fwd_Rifle.uasset" 979
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Jog_Fwd_Rifle.uexp" 980
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/BS_Jog.uasset" 981
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/BS_Jog.uexp" 982
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/Enemy/Ue4ASP_Character.uasset" 983
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/Enemy/Ue4ASP_Character.uexp" 984
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Idle_Rifle_Hip.uasset" 985
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Idle_Rifle_Hip.uexp" 986
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Death_Prone.uasset" 987
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Death_Prone.uexp" 988
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset" 989
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uexp" 990
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset" 991
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uexp" 992
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset" 993
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uexp" 994
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset" 995
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uexp" 996
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/BS_CrouchWalk.uasset" 997
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/BS_CrouchWalk.uexp" 998
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Death_2.uasset" 999
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Death_2.uexp" 1000
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Jump_From_Stand.uasset" 1001
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Jump_From_Stand.uexp" 1002
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/Enemy/UE4ASP_HeroTPP_AnimBlueprint.uasset" 1003
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/Enemy/UE4ASP_HeroTPP_AnimBlueprint.uexp" 1004
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.ubulk" 1005
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.uasset" 1006
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.uexp" 1007
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/SC_EnemyShot.uasset" 1008
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/SC_EnemyShot.uexp" 1009
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Smoke_SubUV.ubulk" 1010
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 1011
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Smoke_SubUV.uexp" 1012
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Smoke_Tiled_D.ubulk" 1013
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 1014
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Smoke_Tiled_D.uexp" 1015
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 1016
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Particles/Materials/M_smoke_subUV.uexp" 1017
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Burst_M.ubulk" 1018
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Burst_M.uasset" 1019
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Burst_M.uexp" 1020
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Particles/Materials/M_Burst.uasset" 1021
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Particles/Materials/M_Burst.uexp" 1022
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 1023
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Particles/Materials/m_flare_01.uexp" 1024
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Explosion_SubUV.ubulk" 1025
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 1026
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Explosion_SubUV.uexp" 1027
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 1028
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Particles/Materials/M_explosion_subUV.uexp" 1029
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 1030
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uexp" 1031
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 1032
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Particles/Materials/M_radial_ramp.uexp" 1033
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Particles/P_Explosion.uasset" 1034
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Particles/P_Explosion.uexp" 1035
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_MeshOrientationOptions.uasset" 1036
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_MeshOrientationOptions.uexp" 1037
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraMeshTransforms.uasset" 1038
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraMeshTransforms.uexp" 1039
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uasset" 1040
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uexp" 1041
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitSpeed.uasset" 1042
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitSpeed.uexp" 1043
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/ApplyRotationVector.uasset" 1044
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/ApplyRotationVector.uexp" 1045
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_RotationalSolve.uasset" 1046
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_RotationalSolve.uexp" 1047
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitAccel.uasset" 1048
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitAccel.uexp" 1049
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 1050
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uexp" 1051
-"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/T_NiagaraUVDebug.ubulk" 1052
-"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/T_NiagaraUVDebug.uasset" 1053
-"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/T_NiagaraUVDebug.uexp" 1054
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/T_NoiseTexture.ubulk" 1055
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/T_NoiseTexture.uasset" 1056
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/T_NoiseTexture.uexp" 1057
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/M_AddScrollingNiagara.uasset" 1058
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/M_AddScrollingNiagara.uexp" 1059
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/T_ProjectileHead01.ubulk" 1060
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/T_ProjectileHead01.uasset" 1061
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/T_ProjectileHead01.uexp" 1062
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/MI_AddScrolling_Projectile_Capsule.uasset" 1063
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/MI_AddScrolling_Projectile_Capsule.uexp" 1064
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Material/DynamicMaterialParameters.uasset" 1065
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Material/DynamicMaterialParameters.uexp" 1066
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/Mesh_ProjectileCapsule01.ubulk" 1067
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/Mesh_ProjectileCapsule01.uasset" 1068
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/Mesh_ProjectileCapsule01.uexp" 1069
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/RandomQuaternion.uasset" 1070
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/RandomQuaternion.uexp" 1071
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Orientation/V3/InitialMeshOrientation.uasset" 1072
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Orientation/V3/InitialMeshOrientation.uexp" 1073
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/T_ProjectileTrail01.ubulk" 1074
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/T_ProjectileTrail01.uasset" 1075
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/T_ProjectileTrail01.uexp" 1076
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/MI_AddScrolling_ProjectileTrail.uasset" 1077
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/MI_AddScrolling_ProjectileTrail.uexp" 1078
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/NES_FireProjectile.uasset" 1079
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/NES_FireProjectile.uexp" 1080
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Metal_Gold_N.ubulk" 1081
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 1082
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Metal_Gold_N.uexp" 1083
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_MacroVariation.uasset" 1084
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_MacroVariation.uexp" 1085
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Metal_Gold_D.ubulk" 1086
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 1087
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Metal_Gold_D.uexp" 1088
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Materials/M_Metal_Gold.uasset" 1089
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Materials/M_Metal_Gold.uexp" 1090
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/Enemy/BP_Bullet.uasset" 1091
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/Enemy/BP_Bullet.uexp" 1092
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/Enemy/BP_EnemyChar.uasset" 1093
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/Enemy/BP_EnemyChar.uexp" 1094
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/BP_LevelSwitch.uasset" 1095
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/BP_LevelSwitch.uexp" 1096
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/HUD/HUD.uasset" 1097
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/HUD/HUD.uexp" 1098
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/Reload.ubulk" 1099
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/Reload.uasset" 1100
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/Reload.uexp" 1101
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/Player/BP_Player.uasset" 1102
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/Player/BP_Player.uexp" 1103
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/M_FPGun.uasset" 1104
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/M_FPGun.uexp" 1105
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Mesh/SK_FPGun.uasset" 1106
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Mesh/SK_FPGun.uexp" 1107
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/laser_gun.ubulk" 1108
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/laser_gun.uasset" 1109
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/laser_gun.uexp" 1110
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/SC_Laser.uasset" 1111
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/SC_Laser.uexp" 1112
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/Player/BP_Rifle.uasset" 1113
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/Player/BP_Rifle.uexp" 1114
-"../../../Engine/Content/BasicShapes/Cube.ubulk" 1115
-"../../../Engine/Content/BasicShapes/Cube.uasset" 1116
-"../../../Engine/Content/BasicShapes/Cube.uexp" 1117
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Metal_Steel_D.ubulk" 1118
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 1119
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Metal_Steel_D.uexp" 1120
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Metal_Steel_N.ubulk" 1121
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 1122
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Metal_Steel_N.uexp" 1123
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Materials/M_Metal_Steel.uasset" 1124
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Materials/M_Metal_Steel.uexp" 1125
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/TestLevel.uexp" 1126
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/TestLevel.umap" 1127
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 561
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 562
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 563
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 564
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 565
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uexp" 566
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPerson_Fire.uasset" 567
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPerson_Fire.uexp" 568
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPersonFire_Montage.uasset" 569
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPersonFire_Montage.uexp" 570
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uasset" 571
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uexp" 572
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uasset" 573
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uexp" 574
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_LocationShapes.uasset" 575
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_LocationShapes.uexp" 576
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 577
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uexp" 578
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_CylinderMode.uasset" 579
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_CylinderMode.uexp" 580
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 581
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uexp" 582
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 583
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uexp" 584
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 585
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uexp" 586
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 587
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uexp" 588
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 589
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uexp" 590
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 591
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uexp" 592
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 593
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uexp" 594
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 595
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uexp" 596
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 597
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uexp" 598
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 599
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uexp" 600
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 601
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uexp" 602
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uasset" 603
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uexp" 604
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 605
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uexp" 606
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 607
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uexp" 608
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 609
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uexp" 610
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uasset" 611
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uexp" 612
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 613
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uexp" 614
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 615
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uexp" 616
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 617
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uexp" 618
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 619
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uexp" 620
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 621
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uexp" 622
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_ScaleMode.uasset" 623
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_ScaleMode.uexp" 624
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 625
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uexp" 626
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 627
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uexp" 628
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 629
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uexp" 630
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 631
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uexp" 632
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 633
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uexp" 634
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 635
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uexp" 636
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 637
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uexp" 638
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 639
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uexp" 640
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 641
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uexp" 642
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_ConeMode.uasset" 643
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_ConeMode.uexp" 644
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Angles/ENiagara_AngleInput.uasset" 645
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Angles/ENiagara_AngleInput.uexp" 646
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 647
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uexp" 648
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_AttributeSamplingApplyOutput.uasset" 649
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_AttributeSamplingApplyOutput.uexp" 650
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/Vector2DFromFloat.uasset" 651
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/Vector2DFromFloat.uexp" 652
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_OffsetMode.uasset" 653
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_OffsetMode.uexp" 654
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 655
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uexp" 656
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 657
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uexp" 658
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_BoxPlaneMode.uasset" 659
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_BoxPlaneMode.uexp" 660
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_TransformOrder.uasset" 661
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_TransformOrder.uexp" 662
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagaraRingDiscMode.uasset" 663
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagaraRingDiscMode.uexp" 664
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_RotationMode.uasset" 665
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_RotationMode.uexp" 666
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 667
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uexp" 668
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraShapeTorusMode.uasset" 669
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraShapeTorusMode.uexp" 670
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 671
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uexp" 672
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/SaturateFloat.uasset" 673
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/SaturateFloat.uexp" 674
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 675
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uexp" 676
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/RotateVector2D.uasset" 677
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/RotateVector2D.uexp" 678
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/RemapRange.uasset" 679
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/RemapRange.uexp" 680
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 681
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uexp" 682
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 683
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uexp" 684
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/IsolateLongestVectorComponent.uasset" 685
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/IsolateLongestVectorComponent.uexp" 686
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomPointInBox.uasset" 687
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomPointInBox.uexp" 688
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AngleUnitConverter.uasset" 689
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AngleUnitConverter.uexp" 690
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorusKnot.uasset" 691
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorusKnot.uexp" 692
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 693
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uexp" 694
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorus.uasset" 695
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorus.uexp" 696
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uasset" 697
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uexp" 698
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uasset" 699
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uexp" 700
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/SphericalToCartesianCoordinates.uasset" 701
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/SphericalToCartesianCoordinates.uexp" 702
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/XYZRotationToQuaternion.uasset" 703
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/XYZRotationToQuaternion.uexp" 704
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 705
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uexp" 706
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uasset" 707
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uexp" 708
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 709
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uexp" 710
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/InvertQuaternion.uasset" 711
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/InvertQuaternion.uexp" 712
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MatrixToQuaternion.uasset" 713
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MatrixToQuaternion.uexp" 714
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MakeQuaternionFrom3BasisVectors.uasset" 715
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MakeQuaternionFrom3BasisVectors.uexp" 716
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uasset" 717
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uexp" 718
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/TransformStack/TransformStack_Rotation.uasset" 719
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/TransformStack/TransformStack_Rotation.uexp" 720
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_TransformType.uasset" 721
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_TransformType.uexp" 722
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/CalculateRandomPointInConeSphereIntersection.uasset" 723
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/CalculateRandomPointInConeSphereIntersection.uexp" 724
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/V2/ShapeLocation.uasset" 725
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/V2/ShapeLocation.uexp" 726
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Particle_InfiniteLife.uasset" 727
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Particle_InfiniteLife.uexp" 728
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 729
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uexp" 730
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.uasset" 731
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.uexp" 732
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uasset" 733
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uexp" 734
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uasset" 735
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uexp" 736
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/Laser/NS_LaserImpact.uasset" 737
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/Laser/NS_LaserImpact.uexp" 738
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/Player/BP_LaserImpact.uasset" 739
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/Player/BP_LaserImpact.uexp" 740
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 741
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 742
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 743
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 744
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 745
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 746
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 747
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 748
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 749
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 750
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 751
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 752
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Textures/UE4_Mannequin_MAT_MASKA.ubulk" 753
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 754
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Textures/UE4_Mannequin_MAT_MASKA.uexp" 755
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Textures/UE4_LOGO_CARD.ubulk" 756
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Textures/UE4_LOGO_CARD.uasset" 757
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Textures/UE4_LOGO_CARD.uexp" 758
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 759
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 760
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 761
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 762
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 763
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 764
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 765
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 766
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 767
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 768
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 769
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 770
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 771
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 772
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Textures/UE4_Mannequin__normals.ubulk" 773
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Textures/UE4_Mannequin__normals.uasset" 774
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Textures/UE4_Mannequin__normals.uexp" 775
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/M_UE4Man_Body.uasset" 776
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Materials/M_UE4Man_Body.uexp" 777
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 778
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uexp" 779
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms.uasset" 780
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms.uexp" 781
+"../../../Engine/Content/BasicShapes/Sphere.ubulk" 782
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 783
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 784
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 785
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 786
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uasset" 787
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uexp" 788
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uasset" 789
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uexp" 790
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamEmitterSetup.uasset" 791
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamEmitterSetup.uexp" 792
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultRIbbonMaterial.uasset" 793
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultRIbbonMaterial.uexp" 794
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Spline/FindPositionOnBezierSpline.uasset" 795
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Spline/FindPositionOnBezierSpline.uexp" 796
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/SpawnBeam.uasset" 797
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/SpawnBeam.uexp" 798
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamWidth.uasset" 799
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamWidth.uexp" 800
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/UpdateBeam.uasset" 801
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/UpdateBeam.uexp" 802
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/Laser/NS_Laser.uasset" 803
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/Laser/NS_Laser.uexp" 804
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPerson_JumpLoop.uasset" 805
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPerson_JumpLoop.uexp" 806
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPerson_Run.uasset" 807
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPerson_Run.uexp" 808
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPerson_JumpEnd.uasset" 809
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPerson_JumpEnd.uexp" 810
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPerson_Idle.uasset" 811
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPerson_Idle.uexp" 812
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPerson_JumpStart.uasset" 813
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPerson_JumpStart.uexp" 814
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 815
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 816
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset" 817
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uexp" 818
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/ShooterOST.ubulk" 819
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/ShooterOST.uasset" 820
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/ShooterOST.uexp" 821
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/OST.uasset" 822
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/OST.uexp" 823
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/BP_FirstPersonGameMode.uasset" 824
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/BP_FirstPersonGameMode.uexp" 825
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/HUD/Crosshair.uasset" 826
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/HUD/Crosshair.uexp" 827
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/HUD/Himalaya_Regular.uexp" 828
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/HUD/Himalaya_Regular.uasset" 829
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/HUD/Himalaya_Regular.ufont" 830
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/HUD/Himalaya_Regular_Font.uasset" 831
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/HUD/Himalaya_Regular_Font.uexp" 832
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/BP_LevelSwitch.uasset" 833
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/BP_LevelSwitch.uexp" 834
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.ubulk" 835
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset" 836
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uexp" 837
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.ubulk" 838
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset" 839
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uexp" 840
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 841
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 842
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 843
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 844
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 845
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 846
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 847
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 848
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 849
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 850
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.ubulk" 851
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset" 852
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uexp" 853
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.ubulk" 854
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset" 855
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uexp" 856
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 857
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 858
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 859
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 860
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 861
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 862
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 863
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 864
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 865
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 866
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 867
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uexp" 868
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uasset" 869
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uexp" 870
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.ubulk" 871
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset" 872
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.uexp" 873
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset" 874
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uexp" 875
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset" 876
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uexp" 877
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset" 878
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uexp" 879
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset" 880
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uexp" 881
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Textures/T_FPGun_N.ubulk" 882
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Textures/T_FPGun_N.uasset" 883
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Textures/T_FPGun_N.uexp" 884
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 885
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uexp" 886
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 887
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 888
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 889
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 890
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 891
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 892
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 893
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 894
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Textures/T_FPGun_M.ubulk" 895
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Textures/T_FPGun_M.uasset" 896
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Textures/T_FPGun_M.uexp" 897
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 898
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 899
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 900
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 901
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 902
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 903
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 904
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 905
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 906
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 907
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/M_EnemyGun.uasset" 908
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/M_EnemyGun.uexp" 909
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 910
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uexp" 911
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Mesh/SK_FPGun_Physics.uasset" 912
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Mesh/SK_FPGun_Physics.uexp" 913
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Mesh/SK_EnemyGun.uasset" 914
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Mesh/SK_EnemyGun.uexp" 915
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Tile/T_Black_32.uasset" 916
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Tile/T_Black_32.uexp" 917
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master.uasset" 918
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master.uexp" 919
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Animal/T_Feathers_01.ubulk" 920
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Animal/T_Feathers_01.uasset" 921
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Animal/T_Feathers_01.uexp" 922
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Materials/Misc/M_Feathers_Trans_3X1_INST.uasset" 923
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Materials/Misc/M_Feathers_Trans_3X1_INST.uexp" 924
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_FireBlastTile.ubulk" 925
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_FireBlastTile.uasset" 926
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_FireBlastTile.uexp" 927
+"../../../Engine/Content/EngineResources/Black.uasset" 928
+"../../../Engine/Content/EngineResources/Black.uexp" 929
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/Masters/M_Add_Trail_2Sided_Pan_Master.uasset" 930
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/Masters/M_Add_Trail_2Sided_Pan_Master.uexp" 931
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_Sheet_01_INST.uasset" 932
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_Sheet_01_INST.uexp" 933
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_SubUV_Master.uasset" 934
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_SubUV_Master.uexp" 935
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_Fire_subUV_6X6.ubulk" 936
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_Fire_subUV_6X6.uasset" 937
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_Fire_subUV_6X6.uexp" 938
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_01_Add_6X6_INST.uasset" 939
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_01_Add_6X6_INST.uexp" 940
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_FireBlastMesh.ubulk" 941
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_FireBlastMesh.uasset" 942
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_FireBlastMesh.uexp" 943
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master.uasset" 944
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master.uexp" 945
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_03.ubulk" 946
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_03.uasset" 947
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_03.uexp" 948
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_04_INST.uasset" 949
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_04_INST.uexp" 950
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Spark/T_Sparks_03_SubUV_1_4.ubulk" 951
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Spark/T_Sparks_03_SubUV_1_4.uasset" 952
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Spark/T_Sparks_03_SubUV_1_4.uexp" 953
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Materials/Spark/M_Spark_03_1_4_INST.uasset" 954
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Materials/Spark/M_Spark_03_1_4_INST.uexp" 955
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Smoke/T_SmokeBall_01_8_8.ubulk" 956
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Smoke/T_SmokeBall_01_8_8.uasset" 957
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Textures/Smoke/T_SmokeBall_01_8_8.uexp" 958
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_Smoke_01_8X8_INST.uasset" 959
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_Smoke_01_8X8_INST.uexp" 960
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Chicken/P_ChickenMaster_MuzzleFlash_01.uasset" 961
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Chicken/P_ChickenMaster_MuzzleFlash_01.uexp" 962
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset" 963
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uexp" 964
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Jump_From_Jog.uasset" 965
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Jump_From_Jog.uexp" 966
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Hit_React_4.uasset" 967
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Hit_React_4.uexp" 968
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Jog_Bwd_Rifle.uasset" 969
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Jog_Bwd_Rifle.uexp" 970
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Jog_Lt_Rifle.uasset" 971
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Jog_Lt_Rifle.uexp" 972
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Jog_Rt_Rifle.uasset" 973
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Jog_Rt_Rifle.uexp" 974
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Jog_Fwd_Rifle.uasset" 975
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Jog_Fwd_Rifle.uexp" 976
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/BS_Jog.uasset" 977
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/BS_Jog.uexp" 978
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/Enemy/Ue4ASP_Character.uasset" 979
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/Enemy/Ue4ASP_Character.uexp" 980
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Idle_Rifle_Hip.uasset" 981
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Idle_Rifle_Hip.uexp" 982
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Death_Prone.uasset" 983
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Death_Prone.uexp" 984
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset" 985
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uexp" 986
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset" 987
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uexp" 988
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset" 989
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uexp" 990
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset" 991
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uexp" 992
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/BS_CrouchWalk.uasset" 993
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/BS_CrouchWalk.uexp" 994
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Death_2.uasset" 995
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Death_2.uexp" 996
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Jump_From_Stand.uasset" 997
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/AnimStarterPack/Jump_From_Stand.uexp" 998
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/Enemy/UE4ASP_HeroTPP_AnimBlueprint.uasset" 999
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/Enemy/UE4ASP_HeroTPP_AnimBlueprint.uexp" 1000
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.ubulk" 1001
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.uasset" 1002
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.uexp" 1003
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/SC_EnemyShot.uasset" 1004
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/SC_EnemyShot.uexp" 1005
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Smoke_SubUV.ubulk" 1006
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 1007
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Smoke_SubUV.uexp" 1008
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Smoke_Tiled_D.ubulk" 1009
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 1010
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Smoke_Tiled_D.uexp" 1011
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 1012
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Particles/Materials/M_smoke_subUV.uexp" 1013
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Burst_M.ubulk" 1014
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Burst_M.uasset" 1015
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Burst_M.uexp" 1016
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Particles/Materials/M_Burst.uasset" 1017
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Particles/Materials/M_Burst.uexp" 1018
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 1019
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Particles/Materials/m_flare_01.uexp" 1020
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Explosion_SubUV.ubulk" 1021
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 1022
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Explosion_SubUV.uexp" 1023
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 1024
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Particles/Materials/M_explosion_subUV.uexp" 1025
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 1026
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uexp" 1027
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 1028
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Particles/Materials/M_radial_ramp.uexp" 1029
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Particles/P_Explosion.uasset" 1030
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Particles/P_Explosion.uexp" 1031
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_MeshOrientationOptions.uasset" 1032
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_MeshOrientationOptions.uexp" 1033
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraMeshTransforms.uasset" 1034
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraMeshTransforms.uexp" 1035
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uasset" 1036
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uexp" 1037
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitSpeed.uasset" 1038
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitSpeed.uexp" 1039
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/ApplyRotationVector.uasset" 1040
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/ApplyRotationVector.uexp" 1041
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_RotationalSolve.uasset" 1042
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_RotationalSolve.uexp" 1043
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitAccel.uasset" 1044
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitAccel.uexp" 1045
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 1046
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uexp" 1047
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/T_NiagaraUVDebug.ubulk" 1048
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/T_NiagaraUVDebug.uasset" 1049
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/T_NiagaraUVDebug.uexp" 1050
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/T_NoiseTexture.ubulk" 1051
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/T_NoiseTexture.uasset" 1052
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/T_NoiseTexture.uexp" 1053
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/M_AddScrollingNiagara.uasset" 1054
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/M_AddScrollingNiagara.uexp" 1055
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/T_ProjectileHead01.ubulk" 1056
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/T_ProjectileHead01.uasset" 1057
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/T_ProjectileHead01.uexp" 1058
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/MI_AddScrolling_Projectile_Capsule.uasset" 1059
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/MI_AddScrolling_Projectile_Capsule.uexp" 1060
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Material/DynamicMaterialParameters.uasset" 1061
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Material/DynamicMaterialParameters.uexp" 1062
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/Mesh_ProjectileCapsule01.ubulk" 1063
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/Mesh_ProjectileCapsule01.uasset" 1064
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/Mesh_ProjectileCapsule01.uexp" 1065
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/RandomQuaternion.uasset" 1066
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/RandomQuaternion.uexp" 1067
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Orientation/V3/InitialMeshOrientation.uasset" 1068
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Orientation/V3/InitialMeshOrientation.uexp" 1069
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/T_ProjectileTrail01.ubulk" 1070
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/T_ProjectileTrail01.uasset" 1071
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/T_ProjectileTrail01.uexp" 1072
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/MI_AddScrolling_ProjectileTrail.uasset" 1073
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/MI_AddScrolling_ProjectileTrail.uexp" 1074
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/NES_FireProjectile.uasset" 1075
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/VFX/FireProjectile/NES_FireProjectile.uexp" 1076
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Metal_Gold_N.ubulk" 1077
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 1078
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Metal_Gold_N.uexp" 1079
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_MacroVariation.uasset" 1080
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_MacroVariation.uexp" 1081
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Metal_Gold_D.ubulk" 1082
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 1083
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Metal_Gold_D.uexp" 1084
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Materials/M_Metal_Gold.uasset" 1085
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Materials/M_Metal_Gold.uexp" 1086
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/Enemy/BP_Bullet.uasset" 1087
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/Enemy/BP_Bullet.uexp" 1088
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/Enemy/BP_EnemyChar.uasset" 1089
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/Enemy/BP_EnemyChar.uexp" 1090
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/HUD/HUD.uasset" 1091
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/HUD/HUD.uexp" 1092
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/Reload.ubulk" 1093
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/Reload.uasset" 1094
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/Reload.uexp" 1095
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/Player/BP_Player.uasset" 1096
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/Player/BP_Player.uexp" 1097
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/M_FPGun.uasset" 1098
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Materials/M_FPGun.uexp" 1099
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Mesh/SK_FPGun.uasset" 1100
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/FPWeapon/Mesh/SK_FPGun.uexp" 1101
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/laser_gun.ubulk" 1102
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/laser_gun.uasset" 1103
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/laser_gun.uexp" 1104
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/SC_Laser.uasset" 1105
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/SFX/SC_Laser.uexp" 1106
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/Player/BP_Rifle.uasset" 1107
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/Player/BP_Rifle.uexp" 1108
+"../../../Engine/Content/BasicShapes/Cube.ubulk" 1109
+"../../../Engine/Content/BasicShapes/Cube.uasset" 1110
+"../../../Engine/Content/BasicShapes/Cube.uexp" 1111
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Metal_Steel_D.ubulk" 1112
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 1113
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Metal_Steel_D.uexp" 1114
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Metal_Steel_N.ubulk" 1115
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 1116
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Textures/T_Metal_Steel_N.uexp" 1117
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Materials/M_Metal_Steel.uasset" 1118
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Materials/M_Metal_Steel.uexp" 1119
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/TestLevel.uexp" 1120
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/TestLevel.umap" 1121
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/HUD/MainMenu.uasset" 1122
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/HUD/MainMenu.uexp" 1123
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/BP_MainMenuGameMode.uasset" 1124
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Blueprints/BP_MainMenuGameMode.uexp" 1125
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/MainMenu.uexp" 1126
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/MainMenu.umap" 1127
 "C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Materials/M_Basic_Wall.uasset" 1128
 "C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Materials/M_Basic_Wall.uexp" 1129
 "C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Shapes/Shape_NarrowCapsule.ubulk" 1130
@@ -1137,37 +1137,37 @@
 "C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Shapes/Shape_Pipe_180.ubulk" 1136
 "C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 1137
 "C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Shapes/Shape_Pipe_180.uexp" 1138
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelSequences/LS_Platforms.uasset" 1139
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelSequences/LS_Platforms.uexp" 1140
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Shapes/Shape_Trim_90_Out.ubulk" 1141
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 1142
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Shapes/Shape_Trim_90_Out.uexp" 1143
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Shapes/Shape_Cone.ubulk" 1144
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Shapes/Shape_Cone.uasset" 1145
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Shapes/Shape_Cone.uexp" 1146
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelPrototyping/Textures/T_GridChecker_A.ubulk" 1147
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset" 1148
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelPrototyping/Textures/T_GridChecker_A.uexp" 1149
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 1150
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uexp" 1151
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 1152
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uexp" 1153
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset" 1154
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelPrototyping/Materials/MF_ProcGrid.uexp" 1155
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset" 1156
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelPrototyping/Materials/M_PrototypeGrid.uexp" 1157
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset" 1158
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uexp" 1159
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelPrototyping/Meshes/SM_Ramp.ubulk" 1160
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelPrototyping/Meshes/SM_Ramp.uasset" 1161
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelPrototyping/Meshes/SM_Ramp.uexp" 1162
-"../../../Engine/Content/BasicShapes/Cylinder.ubulk" 1163
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1164
-"../../../Engine/Content/BasicShapes/Cylinder.uexp" 1165
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.ubulk" 1166
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset" 1167
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uexp" 1168
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/Arena02.uexp" 1169
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/Arena02.umap" 1170
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/Arena01.uexp" 1171
-"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/Arena01.umap" 1172
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Shapes/Shape_Trim_90_Out.ubulk" 1139
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 1140
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Shapes/Shape_Trim_90_Out.uexp" 1141
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Shapes/Shape_Cone.ubulk" 1142
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Shapes/Shape_Cone.uasset" 1143
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/StarterContent/Shapes/Shape_Cone.uexp" 1144
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelPrototyping/Textures/T_GridChecker_A.ubulk" 1145
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset" 1146
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelPrototyping/Textures/T_GridChecker_A.uexp" 1147
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 1148
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uexp" 1149
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 1150
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uexp" 1151
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset" 1152
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelPrototyping/Materials/MF_ProcGrid.uexp" 1153
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset" 1154
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelPrototyping/Materials/M_PrototypeGrid.uexp" 1155
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset" 1156
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uexp" 1157
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelPrototyping/Meshes/SM_Ramp.ubulk" 1158
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelPrototyping/Meshes/SM_Ramp.uasset" 1159
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelPrototyping/Meshes/SM_Ramp.uexp" 1160
+"../../../Engine/Content/BasicShapes/Cylinder.ubulk" 1161
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1162
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 1163
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.ubulk" 1164
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset" 1165
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uexp" 1166
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/Arena01.uexp" 1167
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/Arena01.umap" 1168
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelSequences/LS_Platforms.uasset" 1169
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/LevelSequences/LS_Platforms.uexp" 1170
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/Arena02.uexp" 1171
+"C:/Users/Professional/Desktop/Projects/2 - Shooter/ShooterProject/Shooter/Content/Levels/Arena02.umap" 1172

@@ -1,11 +1,11 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "c:\\unreal engine\\projects\\2 - shooter\\shooterproject\\shooter\\intermediate\\build\\win64\\unrealeditor\\inc\\shooter\\shooter.init.gen.cpp",
+        "Source": "c:\\users\\professional\\desktop\\projects\\2 - shooter\\shooterproject\\shooter\\intermediate\\build\\win64\\unrealeditor\\inc\\shooter\\shooter.init.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\unreal engine\\projects\\2 - shooter\\shooterproject\\shooter\\intermediate\\build\\win64\\shootereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "c:\\users\\professional\\desktop\\projects\\2 - shooter\\shooterproject\\shooter\\intermediate\\build\\win64\\shootereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "c:\\unreal engine\\projects\\2 - shooter\\shooterproject\\shooter\\intermediate\\build\\win64\\unrealeditor\\development\\shooter\\definitions.shooter.h"
+            "c:\\users\\professional\\desktop\\projects\\2 - shooter\\shooterproject\\shooter\\intermediate\\build\\win64\\unrealeditor\\development\\shooter\\definitions.shooter.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
